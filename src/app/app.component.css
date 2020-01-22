@@ -1,0 +1,20 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  background: #ececec;
+}
+.topNav {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+  align-items: center;
+}
+ul {
+  display: flex;
+  list-style: none;
+}
+
+ul a {
+  text-decoration: none;
+  margin: 0 10px;
+}
